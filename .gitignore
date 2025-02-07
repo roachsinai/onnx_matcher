@@ -1,4 +1,3 @@
-relu_yolov5.onnx
-remove01.onnx
-replace03.onnx
 __pycache__
+.vscode
+*.onnx
